@@ -1,0 +1,29 @@
+_repo: An-Account-of-the-Ladies-of-Llangollen_62005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prichard, J. (John)
+    alias: Prichard, John
+    birthdate: 1796
+    deathdate: 1875
+    gutenberg_agent_id: '51724'
+    url: http://www.gutenberg.org/2009/agents/51724
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Butler, Eleanor, Lady, 1739-1829'
+- !lcsh 'Ponsonby, Sarah, 1755-1831'
+- !lcsh 'Llangollen (Wales) -- History'
+- !lcsh 'Women -- Wales -- Biography'
+- !lcsh 'Lesbians -- Wales -- Biography'
+- !lcc 'CT'
+- GITenberg
+title: An Account of the Ladies of Llangollen
+url: http://www.gutenberg.org/ebooks/62005
